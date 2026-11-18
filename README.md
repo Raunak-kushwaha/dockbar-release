@@ -3,7 +3,10 @@
 A replacement for the Windows 11 taskbar. It hides the stock taskbar and draws its own, in either of
 two looks you can switch between at any time:
 
-**[⬇ Download the latest release](https://github.com/Raunak-kushwaha/dockbar-release/releases/latest)**: an installer, or a single exe; nothing else to install.
+<a href="https://apps.microsoft.com/detail/9P0P4PWSJRJW?mode=direct"><img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200" alt="Get it from Microsoft"/></a>
+
+**[Get Dockbar from the Microsoft Store](https://apps.microsoft.com/detail/9P0P4PWSJRJW)**: one click, no SmartScreen warning, and updates arrive through the Store.
+Or **[⬇ download the latest release](https://github.com/Raunak-kushwaha/dockbar-release/releases/latest)** here: an installer, or a single exe; nothing else to install.
 
 | | **Full width** | **Floating dock** (default) |
 |---|---|---|
@@ -53,7 +56,11 @@ two looks you can switch between at any time:
 
 Requires Windows 11, 64-bit. Windows 10 (2004 or later) should work but is untested.
 
-**Installer (recommended):** download `Dockbar-Setup-v….exe` from the
+**Microsoft Store (easiest):** [Dockbar Taskbar](https://apps.microsoft.com/detail/9P0P4PWSJRJW) installs with
+one click and updates through the Store. It starts when you sign in; turn that off in Dockbar's settings or in
+Task Manager → Startup apps.
+
+**Installer:** download `Dockbar-Setup-v….exe` from the
 [latest release](https://github.com/Raunak-kushwaha/dockbar-release/releases/latest) and run it.
 - It installs for your account only, with no admin prompt.
 - It adds Dockbar to Start and to Windows' installed apps, and can start it when you sign in.
