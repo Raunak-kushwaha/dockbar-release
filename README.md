@@ -52,6 +52,17 @@ Or **[⬇ download the latest release](https://github.com/Raunak-kushwaha/dockba
   tray. Arrows move, Enter opens, the menu key opens the right-click menu, Esc goes back.
 - **Update check.** Dockbar tells you in its settings when a newer release is out.
 
+**Visualiser (optional add-on, GitHub version)**
+- Download it from Dockbar's settings (about 2 MB). It runs only while it's showing something, on your graphics card.
+- Four full-screen scenes that move with the music: a spiral galaxy of particles, liquid light, a ring of
+  frequencies, and the album cover, large. Each takes its colours from the album art.
+- Full screen (any key brings the desktop back), in a window, or as **live wallpaper** behind your icons.
+  It can also start by itself after a few idle minutes while music plays, like a screen saver.
+- **Edge glow:** a soft light around the screen in the album's colours, pulsing with the beat. Clicks go
+  straight through it.
+- **Synced lyrics** over the desktop, in time with the song, in three styles. They come from
+  [LRCLIB](https://lrclib.net) (see the [privacy policy](PRIVACY.md)).
+
 ## Install
 
 Requires Windows 11, 64-bit. Windows 10 (2004 or later) should work but is untested.
@@ -89,14 +100,14 @@ and your style.
 
 | Section | What it controls |
 |---|---|
-| *(top of the page)* | **Dockbar is on / off** |
-| Style | Full width or Floating dock; taskbar auto-hide; music waves along the taskbar |
-| Dock auto-hide | Shrink delay, hide delay and shrunk size; reveal with the keyboard or on app attention |
-| Pinned panels | Keep the media, apps or tray panel of the dock full size and visible |
-| Look and feel | Appearance (follow Windows, light, dark), frosted glass, window previews, badges, media controls |
-| Shortcuts | `Win + number` shortcuts |
-| Monitors | Show only each monitor's own apps on its bar |
-| System | Start with Windows; check for updates |
+| Home | **Dockbar is on / off**; a live preview; full width or floating dock |
+| Appearance | Theme (follow Windows, light, dark), frosted glass, media controls, the Start button's icon, magnifying icons, music waves |
+| Behaviour | Taskbar auto-hide, or the dock's shrink and hide delays and shrunk size; bringing it back with the keyboard or when an app needs attention; pinned panels |
+| Apps and windows | Window previews, badges, `Win + number` shortcuts, each monitor's own apps |
+| Visualiser | Download, open, scene, idle start, edge glow, synced lyrics, live wallpaper *(GitHub version)* |
+| System | Start with Windows; check for updates; reset; about |
+
+Type in **Find a setting** at the top of the sidebar (or press Ctrl+F) to jump straight to any setting.
 
 ## Turning Dockbar off and on
 
