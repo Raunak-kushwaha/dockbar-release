@@ -52,8 +52,8 @@ Or **[⬇ download the latest release](https://github.com/Raunak-kushwaha/dockba
   tray. Arrows move, Enter opens, the menu key opens the right-click menu, Esc goes back.
 - **Update check.** Dockbar tells you in its settings when a newer release is out.
 
-**Visualiser (optional add-on, GitHub version)**
-- Download it from Dockbar's settings (about 2 MB). It runs only while it's showing something, on your graphics card.
+**Visualiser** *(new in 3.0)*
+- Built into the Microsoft Store version; in the GitHub version, download it from Dockbar's settings (about 1 MB). It runs only while it's showing something, on your graphics card.
 - Four full-screen scenes that move with the music: a spiral galaxy of particles, liquid light, a ring of
   frequencies, and the album cover, large. Each takes its colours from the album art.
 - Full screen (any key brings the desktop back), in a window, or as **live wallpaper** behind your icons.
@@ -104,7 +104,7 @@ and your style.
 | Appearance | Theme (follow Windows, light, dark), frosted glass, media controls, the Start button's icon, magnifying icons, music waves |
 | Behaviour | Taskbar auto-hide, or the dock's shrink and hide delays and shrunk size; bringing it back with the keyboard or when an app needs attention; pinned panels |
 | Apps and windows | Window previews, badges, `Win + number` shortcuts, each monitor's own apps |
-| Visualiser | Download, open, scene, idle start, edge glow, synced lyrics, live wallpaper *(GitHub version)* |
+| Visualiser | Download, open, scene, idle start, edge glow, synced lyrics, live wallpaper |
 | System | Start with Windows; check for updates; reset; about |
 
 Type in **Find a setting** at the top of the sidebar (or press Ctrl+F) to jump straight to any setting.
